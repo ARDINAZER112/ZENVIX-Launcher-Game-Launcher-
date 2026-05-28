@@ -8,8 +8,8 @@
 * [Lisensi](#-lisensi)
 
 ## Language / Bahasa
-* [Indonesia](URL)
-* [English](URL)
+* [Indonesia](README_id.md)
+* [English](README_en.md)
 
 
 ---
