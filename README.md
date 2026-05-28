@@ -1,11 +1,11 @@
 # Navigation
-* [Tentang](#-🚀-ZENVIX-Launcher-//-Game-Launcher)
-* [Fitur](#-⚡-Fitur-Utama)
-* [Prasyarat dan Dependensi](#-🛠️-Prasyarat-&-Dependensi)
-* [Struktur](#-📂-Struktur-Direktori-Proyek)
-* [Cara menjalankannya](#-🚀-Cara-Menjalankan)
-* [Konfigurasi Warna](#-🔧-Konfigurasi-Warna-&-Gaya-(Style-Guide))
-* [Lisensi](#-📝-Lisensi)
+* [Tentang](#-zenvix-launcher--game-launcher)
+* [Fitur Utama](#-fitur-utama)
+* [Prasyarat dan Dependensi](#%EF%B8%8F-prasyarat-&-dependensi)
+* [Struktur Projek](#-struktur-direktori-proyek)
+* [Cara Menjalankan](#-cara-menjalankan)
+* [Konfigurasi Warna](#-konfigurasi-warna-&-gaya-style-guide)
+* [Lisensi](#-lisensi)
 
 ## Language / Bahasa
 * [Indonesia](URL)
@@ -64,7 +64,7 @@ sudo yum install python3-tkinter
 ```
 
 *Catatan untuk pengguna Linux:* Jika Python mengalami masalah atau kendala, disarankan menggunakan venv atau Virtual Environment:
-### Instalation Venv
+### Instalasi Venv
 #### Ubuntu / Debian / Mint
 ```bash
 # Ubuntu / Debian / Mint
